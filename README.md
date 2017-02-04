@@ -1,5 +1,7 @@
 # React Images
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/react-images.svg)](https://greenkeeper.io/)
+
 A simple, responsive lightbox component for displaying an array of images.
 
 
